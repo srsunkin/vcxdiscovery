@@ -1,4 +1,4 @@
-import { readdirSync } from "node:fs";
+eimport { readdirSync } from "node:fs";
 import { join } from "node:path";
 import type { Plugin } from "vite";
 import { defineConfig } from "vite";
@@ -146,6 +146,7 @@ function authPopupPlugin(): Plugin {
 // The dev server starts once `src/router.tsx` and `src/routes/` exist — see
 // AGENTS.md § "First scaffold".
 export default defineConfig(({ command, isPreview }) => ({
+  base: "/vcxdiscovery/",
   server: {
     host: "0.0.0.0",
     port: 8080,
