@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Discovery Kit",
+      "hasCanvas": false,
+      "bodyTextLen": 2072,
+      "bodyTextHash": "2ddfa465e5edf438b800dd1dd94c5a0086619c1286ba35565dfa228e20b844a4",
+      "bodyTextPrefix": "INDUSTRIAL X-RAY / CT Discovery Kit Capture 4% Untitled deal ON ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Discovery Kit",
+      "hasCanvas": false,
+      "bodyTextLen": 1863,
+      "bodyTextHash": "3d44dc0f5ba3834e94dbaa17d3245cd33e08493c935b9f601c12b0c1050e9ab0",
+      "bodyTextPrefix": "Menu Search systems, Nadcap, objections… COMMAND CENTER Live dis",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
